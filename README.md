@@ -6,7 +6,7 @@
 
 💻 I'm a Front-End Web Developer<br>
 🎨 I'm a Web3.0 Enthusiast<br>
-🎓 I'm a Computer Science student (graduating in October 2024)<br>
+🎓 I'm a Computer Science student (graduating in June 2024)<br>
 </div>
 
 <h3 align="center">:chart_with_upwards_trend: My Stats</h3>
