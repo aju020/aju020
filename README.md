@@ -34,7 +34,7 @@
 <h3>Most used Languages</h3>
 <p align="center">
   <a href="#">
-    <img src="[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=aju020)])" />
+    <img src=waka_3f53992d-ea8f-4c0e-a8f0-2c8946b82f23/>
   </a>
 </p>
 </div>
