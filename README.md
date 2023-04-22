@@ -31,12 +31,9 @@
 <br>
 
 <div align="center">
-<h3>Most used Languages</h3>
-<p align="center">
-  <a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aju020&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)">
-    
-  </a>
-</p>
+<h3>Languages</h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aju020&theme=github_dark&layout=compact&hide_border=true" /></a> 
+
 </div>
 
 <br>
